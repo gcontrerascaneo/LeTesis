@@ -36,6 +36,7 @@ function COM_CloseNXT(varargin)
 %   instead of closing all open serial ports, only the COM-Port specified
 %   in inifilename will be used (a valid Bluetooth configuration file can be 
 %   created by the function COM_MakeBTConfigFile). 
+
 %   This syntax helps to avoid interference with other serial ports that might
 %   be used by other (MATLAB) programs at the same time. Note that still all open
 %   USB devices will be closed.
