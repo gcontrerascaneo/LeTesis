@@ -405,3 +405,4 @@ function displayLibusbStatus(status)
         textOut(sprintf('done.\n'));
     end%if
 end%function
+
