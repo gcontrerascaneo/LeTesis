@@ -85,3 +85,5 @@ while 1:
     elif c=='q':
         detener(R2D2)
         break   
+
+        
